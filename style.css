@@ -33,10 +33,10 @@ body {
 
 .overlay {
   position: absolute;
-  top: 60%;
+  top: 50%;
   left: 50%;
   transform: translateX(-50%);
-  width: 60vw;
+  width: 90vw;
   aspect-ratio: 1.6;
   perspective: 1000px;
 }
